@@ -1,4 +1,4 @@
-# Simple_VPR_codebase
+# Image_Retrival_For_Visual_Geolocalization
 
 This repository serves as a starting point to implement a VPR pipeline. It allows you to train a simple
 ResNet-18 on the GSV dataset. It relies on the [pytorch_metric_learning](https://kevinmusgrave.github.io/pytorch-metric-learning/)
